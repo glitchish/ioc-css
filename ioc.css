@@ -21,10 +21,19 @@ content p {
 content.center {
   text-align: center;
 }
+.center {
+  text-align: center;
+}
 content a {
   color: black;
   text-decoration: none;
   border-style: solid;
   border-radius: 5px;
   border-width: thin;
+}
+content code {
+  color: black;
+  text-decoration: none;
+  background-color: #a8a7a7;
+  margin: 5px;
 }
