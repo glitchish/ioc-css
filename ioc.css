@@ -37,3 +37,35 @@ content code {
   background-color: #a8a7a7;
   margin: 5px;
 }
+.separator {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+.separator::before,
+.separator::after {
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid;
+}
+
+.separator:not(:empty)::before {
+  margin-right: .25em;
+}
+
+.separator:not(:empty)::after {
+  margin-left: .25em;
+}
+.footer {
+  border-style: solid;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: transparent;
+  border-width: thin;
+  text-align: center;
+  font-family: Verdana, Helvetica, sans-serif;
+}
