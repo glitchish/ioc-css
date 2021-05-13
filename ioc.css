@@ -1,0 +1,30 @@
+/*
+
+iocoder (ioc) css - source css
+
+*/
+
+nav.ionav {
+  display: flex;
+  color: black;
+  font-family: Verdana, Helvetica, sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  text-align: center;
+  justify-content: space-around;
+  margin: 30px;
+}
+content p {
+  font-family: Verdana, Helvetica, sans-serif;
+}
+content.center {
+  text-align: center;
+}
+content a {
+  color: black;
+  text-decoration: none;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: thin;
+}
