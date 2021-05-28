@@ -84,6 +84,9 @@ content a {
   text-decoration: none;
   border-style: solid;
   border-bottom: 1px dotted;
+  border-top: none;
+  border-left: none;
+  border-right: none;
   font-family: Verdana, Helvetica, sans-serif;
 }
 div.codeblock {
