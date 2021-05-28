@@ -83,8 +83,7 @@ content a {
   color: black;
   text-decoration: none;
   border-style: solid;
-  border-radius: 5px;
-  border-width: thin;
+  border-bottom: 1px dotted;
   font-family: Verdana, Helvetica, sans-serif;
 }
 div.codeblock {
