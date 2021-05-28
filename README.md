@@ -8,8 +8,8 @@ Added:
 
  - [x] Beautified Navbar
  - [x] Beautified Content
- - [x] Changed the way links/anchors ('<a>') look
- - [ ] Added extra stuff\*
+ - [x] Changed the way links/anchors ('\<a\>') appearance\*\*
+ - [x] Beautified Dropdown
 
 
 
@@ -18,4 +18,4 @@ Added:
 Footnotes:
 ###### If footnote text is crossed-out (or is italic), that means that text in the footnote has been implemented
 
-\* class colors, class font manipulations (bold, italic, underline), class font names (verdana, courier new, arial, etc), *~~added code ('code')~~*
+\*\* anchors ('\<a\>', aka links) will have a dotted underline appearance
