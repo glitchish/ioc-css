@@ -16,6 +16,5 @@ Added:
 
 
 Footnotes:
-###### If footnote text is crossed-out (or is italic), that means that text in the footnote has been implemented
 
 \*\* anchors ('\<a\>', aka links) will have a dotted underline appearance
